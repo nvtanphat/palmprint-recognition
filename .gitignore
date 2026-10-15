@@ -1,0 +1,15 @@
+# Datasets and Archives
+Original Images/
+*.rar
+*.zip
+*.tar.gz
+*.7z
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
